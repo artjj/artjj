@@ -1,3 +1,4 @@
+<p align="center">
 ### Welcome to Arthur Dylan's Profile!👋👋
 
 - 🔭 I'm studying and working with C# and .NET!
@@ -24,4 +25,5 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
   <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+  </p>
     
