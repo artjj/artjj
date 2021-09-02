@@ -1,7 +1,17 @@
-### Olá! Sou o Arthur Dylan 👋
+### Welcome to Arthur Dylan's Profile!👋👋
 
-- 🔭 Estou trabalhando e estudando C# e .NET!
+- 🔭 I'm studying and working with C# and .NET!
 <!--- 📫 Contato: art.dylan@outlook.com / LinkedIn: https://linkedin.com/in/adcbatista-->
+
+
+- 💻 My contacts and social media:
+  <div>
+  <a href="https://instagram.com/artdylan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
+  <a href = "mailto:art.dylan@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/adcbatista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+  
+  <br>
 
 <div>
   <a href="https://github.com/artjj">
@@ -14,11 +24,4 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
   <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  <br>
-  
-  <div>
-  <a href = "mailto:art.dylan@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/adcbatista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
     
