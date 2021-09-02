@@ -1,6 +1,12 @@
 ### Welcome to Arthur Dylan's Profile!👋👋
 
 - 🔭 I'm studying and working with C# and .NET!
+
+In my free time, i like to: 
+       <br> - 🕺 Dance, 
+       <br> - 🎙️ Sing, 
+       <br> - 🎵 Listen to music and 
+       <br> - 🏐 Play volleyball. 
 <!--- 📫 Contato: art.dylan@outlook.com / LinkedIn: https://linkedin.com/in/adcbatista-->
 
 ### My contacts and social media:
